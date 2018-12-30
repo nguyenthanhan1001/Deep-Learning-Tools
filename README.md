@@ -1,5 +1,5 @@
 # Deep-Learning-Tools
-Densenet: Keras Application <br/>
+Densenet: https://keras.io/applications/#densenet <br/>
 U-Net: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277/notebook <br/>
 Masked rcnn: https://github.com/matterport/Mask_RCNN <br/>
 FlowNet<br/>
